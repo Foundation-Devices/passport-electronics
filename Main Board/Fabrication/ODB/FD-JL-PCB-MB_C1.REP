@@ -1,0 +1,152 @@
+*************************************************************
+FileName = FD-JUL-MB_PCB.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\l2\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\l2\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\l3\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\l3\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\l1\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\l1\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\mid-layer_3\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\mid-layer_3\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\mid-layer_4\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\mid-layer_4\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\int1__gnd_\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\int1__gnd_\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\board\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\board\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\route_tool_path\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\route_tool_path\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\dimensions\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\dimensions\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\int2__pwr_\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\int2__pwr_\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_assembly\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_assembly\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_3d_body\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_3d_body\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\title_block\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\title_block\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_courtyard\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\bottom_courtyard\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_courtyard\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\top_courtyard\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\l4\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\l4\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\fab_notes\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\fab_notes\attrlist
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect39.3701x78.7402xr4.9212_315\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect39.3701x78.7402xr4.9212_135\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect39.3701x78.7402xr4.9212_45\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect39.3701x78.7402xr4.9212_225\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect39.3701x78.7402xr4.9212_315\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect39.3701x78.7402xr4.9212_135\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect39.3701x78.7402xr4.9212_45\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect39.3701x78.7402xr4.9212_225\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect43.3071x82.6772xr6.8897_315\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect43.3071x82.6772xr6.8897_135\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect43.3071x82.6772xr6.8897_45\features
+
+Generated File : C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Fabrication\Fabrication\ODB\odb\symbols\rect43.3071x82.6772xr6.8897_225\features
+

@@ -1,0 +1,597 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 3 0.2047244 0.1811024 270 N FID2 FID1X2R ;0=1,1=0.0630
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '0'
+PRP RoHS_Compliant ''
+TOP 0 0.2047244 0.1811024 270 N 0 6 FID2-0
+#
+# CMP 1
+CMP 4 -0.1771654 0.0787401 90 N X1 DSC6001HE2A-024.0000 ;0=1,1=0.0354
+PRP Case/Package 'SMD/SMT'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20005625C.pdf'
+PRP ESR ''
+PRP Frequency '24MHz'
+PRP Frequency_Stability '25ppm'
+PRP Load_Capacitance ''
+PRP Max_Operating_Temperature '70°C'
+PRP Max_Supply_Current '1.3mA'
+PRP Min_Operating_Temperature '-20°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Packaging 'Bag'
+PRP Pins ''
+PRP Ratings 'AEC-Q100'
+PRP RoHS_Compliant ''
+TOP 0 -0.2007874 0.0935039 90 N 23 6 X1-1
+TOP 1 -0.1535433 0.0935039 90 N 2 19 X1-2
+TOP 2 -0.1535433 0.0639764 90 N 3 1 X1-3
+TOP 3 -0.2007874 0.0639764 90 N 23 5 X1-4
+#
+# CMP 2
+CMP 5 0 0 270 N U1 OVM7690-RYAA ;0=1,1=0.0630
+PRP Case/Package ''
+PRP Max_Operating_Temperature '70°C'
+PRP Max_Supply_Voltage ''
+PRP Min_Operating_Temperature '-30°C'
+PRP Min_Supply_Voltage ''
+PRP Mounting_Technology ''
+PRP Number_of_Pins '20'
+PRP Package_Quantity '2500'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP RoHS_Compliant ''
+PRP Sensor_Type ''
+TOP 0 0.0629921 -0.0393701 270 N 2 16 U1-1
+TOP 1 -0.062992 -0.0393701 270 N 2 14 U1-2
+TOP 2 -0.062992 0.0393701 90 N 2 13 U1-3
+TOP 3 0.0629921 0.0393701 90 N 2 15 U1-4
+TOP 4 0.0393701 -0.0295276 270 N 1 1 U1-A1
+TOP 5 0.0393701 -0.0098426 270 N 22 2 U1-A2
+TOP 6 0.0393701 0.0098425 270 N 7 0 U1-A3
+TOP 7 0.0393701 0.0295275 270 N 8 0 U1-A4
+TOP 8 0.019685 -0.0295276 270 N 9 3 U1-B1
+TOP 9 0.019685 -0.0098426 270 N 10 3 U1-B2
+TOP 10 0.019685 0.0098425 270 N 20 2 U1-B3
+TOP 11 0.019685 0.0295275 270 N 19 2 U1-B4
+TOP 12 0 -0.0295276 270 N 12 1 U1-C1
+TOP 13 0 -0.0098426 270 N 6 2 U1-C2
+TOP 14 0 0.0098425 270 N 2 12 U1-C3
+TOP 15 0 0.0295275 270 N 18 1 U1-C4
+TOP 16 -0.0196851 -0.0295276 270 N 11 3 U1-D1
+TOP 17 -0.0196851 -0.0098426 270 N 5 0 U1-D2
+TOP 18 -0.0196851 0.0098425 270 N 15 2 U1-D3
+TOP 19 -0.0196851 0.0295275 270 N 17 1 U1-D4
+TOP 20 -0.0393701 -0.0295276 270 N 13 2 U1-E1
+TOP 21 -0.0393701 -0.0098426 270 N 14 1 U1-E2
+TOP 22 -0.0393701 0.0098425 270 N 16 1 U1-E3
+TOP 23 -0.0393701 0.0295275 270 N 21 0 U1-E4
+#
+# CMP 3
+CMP 6 -0.1141732 0.019685 270 N R5 RES_0_OHM_JUMPER_1/16W_0402 ;0=1,1=0.0630
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin,Matte'
+PRP Depth '0.5mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.016inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '63mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power ''
+PRP Power_Rating '62.5mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '0'
+PRP RoHS_Compliant ''
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '50V'
+PRP Width '0.02inch'
+TOP 0 -0.1141732 0.0031496 0 N 5 1 R5-1
+TOP 1 -0.1141732 0.0362204 0 N 3 0 R5-2
+#
+# CMP 4
+CMP 6 -0.1141732 -0.015748 90 N R4 RES_0_OHM_JUMPER_1/16W_0402 ;0=1,1=0.0630
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin,Matte'
+PRP Depth '0.5mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.016inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '63mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power ''
+PRP Power_Rating '62.5mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '0'
+PRP RoHS_Compliant ''
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '50V'
+PRP Width '0.02inch'
+TOP 0 -0.1141732 0.0007874 180 N 5 2 R4-1
+TOP 1 -0.1141732 -0.0322834 180 N 4 1 R4-2
+#
+# CMP 5
+CMP 6 -0.1811024 -0.1141732 0 N R2 RES_4.7K_1/16W_1%_0402 ;0=1,1=0.0630
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.5mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.35mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '63mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '10'
+PRP Packaging 'Tape and Reel'
+PRP Power ''
+PRP Power_Rating '63mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '4.7k'
+PRP RoHS_Compliant ''
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '2.3E-05oz'
+PRP Width '0.5mm'
+TOP 0 -0.164567 -0.1141732 270 N 10 4 R2-1
+TOP 1 -0.1976378 -0.1141732 270 N 23 9 R2-2
+#
+# CMP 6
+CMP 6 -0.1811024 -0.0826772 0 N R1 RES_4.7K_1/16W_1%_0402 ;0=1,1=0.0630
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.5mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.35mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '63mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '10'
+PRP Packaging 'Tape and Reel'
+PRP Power ''
+PRP Power_Rating '63mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '4.7k'
+PRP RoHS_Compliant ''
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '2.3E-05oz'
+PRP Width '0.5mm'
+TOP 0 -0.164567 -0.0826772 270 N 9 4 R1-1
+TOP 1 -0.1976378 -0.0826772 270 N 23 10 R1-2
+#
+# CMP 7
+CMP 2 0.1811024 -0.0669291 90 N L2 BLM18PG221SH1D ;0=1,1=0.0354
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.murata.com/en-us/products/productdata/8796737273886/QNFA9101.pdf'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '1.4A'
+PRP DC_Resistance_(DCR) '100mR'
+PRP Depth '0.95mm'
+PRP Filter_Type ''
+PRP Height '0.037inch'
+PRP Impedance '220R'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.063inch'
+PRP Max_Current_Rating '1.4A'
+PRP Max_DC_Current '1.4A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Number_of_Lines '1'
+PRP Package_Quantity '4000'
+PRP Packaging 'Tape and Reel'
+PRP Ratings 'AEC-Q200'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Tolerance '25%'
+PRP Voltage_Rating ''
+PRP Width '0.8mm'
+TOP 0 0.1811024 -0.0423228 180 N 22 3 L2-1
+TOP 1 0.1811024 -0.0915354 180 N 23 3 L2-2
+#
+# CMP 8
+CMP 2 0.0314961 0.1456693 0 N L1 BLM18PG221SH1D ;0=1,1=0.0354
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.murata.com/en-us/products/productdata/8796737273886/QNFA9101.pdf'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '1.4A'
+PRP DC_Resistance_(DCR) '100mR'
+PRP Depth '0.95mm'
+PRP Filter_Type ''
+PRP Height '0.037inch'
+PRP Impedance '220R'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.063inch'
+PRP Max_Current_Rating '1.4A'
+PRP Max_DC_Current '1.4A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Circuits '1'
+PRP Number_of_Lines '1'
+PRP Package_Quantity '4000'
+PRP Packaging 'Tape and Reel'
+PRP Ratings 'AEC-Q200'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Tolerance '25%'
+PRP Voltage_Rating ''
+PRP Width '0.8mm'
+TOP 0 0.0561024 0.1456693 270 N 23 11 L1-1
+TOP 1 0.0068898 0.1456693 270 N 21 3 L1-2
+#
+# CMP 9
+CMP 0 -0.1771654 0.1259842 180 N C9 CAP_CER_0.1uF_16V_10%_X7R_0402 ;0=1,1=0.0630
+PRP Capacitance '100nF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.5mm'
+PRP Insulation_Resistance '10GR'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage '16V'
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.5mm'
+TOP 0 -0.1937008 0.1259842 90 N 23 7 C9-1
+TOP 1 -0.16063 0.1259842 90 N 2 20 C9-2
+#
+# CMP 10
+CMP 0 0.0826772 0.0826772 180 N C8 CAP_CER_0.1uF_16V_10%_X7R_0402 ;0=1,1=0.0630
+PRP Capacitance '100nF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.5mm'
+PRP Insulation_Resistance '10GR'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage '16V'
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.5mm'
+TOP 0 0.0661418 0.0826772 90 N 8 1 C8-1
+TOP 1 0.0992126 0.0826772 90 N 2 17 C8-2
+#
+# CMP 11
+CMP 0 0.0944882 0.0354331 270 N C7 CAP_CER_0.1uF_16V_10%_X7R_0402 ;0=1,1=0.0630
+PRP Capacitance '100nF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.5mm'
+PRP Insulation_Resistance '10GR'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage '16V'
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.5mm'
+TOP 0 0.0944882 0.0188977 0 N 7 1 C7-1
+TOP 1 0.0944882 0.0519685 0 N 2 21 C7-2
+#
+# CMP 12
+CMP 1 0.125 0.15 90 N C6 CAP_CER_4.7uF_16V_10%_X5R_0603 ;0=1,1=0.0354
+PRP Capacitance '4.7uF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Composition 'Ceramic'
+PRP Dielectric 'X5R'
+PRP Height '0.8mm'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.8mm'
+TOP 0 0.125 0.1746063 180 N 23 8 C6-1
+TOP 1 0.125 0.1253937 180 N 2 22 C6-2
+#
+# CMP 13
+CMP 1 0.1338583 -0.0669291 90 N C5 CAP_CER_4.7uF_16V_10%_X5R_0603 ;0=1,1=0.0354
+PRP Capacitance '4.7uF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Composition 'Ceramic'
+PRP Dielectric 'X5R'
+PRP Height '0.8mm'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.8mm'
+TOP 0 0.1338583 -0.0423228 180 N 22 5 C5-1
+TOP 1 0.1338583 -0.0915354 180 N 2 25 C5-2
+#
+# CMP 14
+CMP 0 0.0944882 -0.0354331 90 N C4 CAP_CER_0.1uF_16V_10%_X7R_0402 ;0=1,1=0.0630
+PRP Capacitance '100nF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.5mm'
+PRP Insulation_Resistance '10GR'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage '16V'
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.5mm'
+TOP 0 0.0944882 -0.0188977 180 N 22 4 C4-1
+TOP 1 0.0944882 -0.0519685 180 N 2 24 C4-2
+#
+# CMP 15
+CMP 0 -0.0728346 0.0866142 0 N C3 CAP_CER_0.1uF_16V_10%_X7R_0402 ;0=1,1=0.0630
+PRP Capacitance '100nF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Depth '0.5mm'
+PRP Dielectric 'X7R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.5mm'
+PRP Insulation_Resistance '10GR'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Material 'Ceramic'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.022inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage '16V'
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.5mm'
+TOP 0 -0.0562992 0.0866142 270 N 21 1 C3-1
+TOP 1 -0.08937 0.0866142 270 N 2 23 C3-2
+#
+# CMP 16
+CMP 1 -0.0826772 0.1417323 0 N C2 CAP_CER_4.7uF_16V_10%_X5R_0603 ;0=1,1=0.0354
+PRP Capacitance '4.7uF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Composition 'Ceramic'
+PRP Dielectric 'X5R'
+PRP Height '0.8mm'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.8mm'
+TOP 0 -0.0580709 0.1417323 270 N 21 2 C2-1
+TOP 1 -0.1072835 0.1417323 270 N 2 26 C2-2
+#
+# CMP 17
+CMP 1 0.1732283 0.0748031 0 N C1 CAP_CER_4.7uF_16V_10%_X5R_0603 ;0=1,1=0.0354
+PRP Capacitance '4.7uF'
+PRP Capacitor_Type ''
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Composition 'Ceramic'
+PRP Dielectric 'X5R'
+PRP Height '0.8mm'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Mounting_Technology ''
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pins ''
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant ''
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.035inch'
+PRP Tolerance '10%'
+PRP Value ''
+PRP Voltage_Rating '16V'
+PRP Voltage_Rating_(DC) '16V'
+PRP Width '0.8mm'
+TOP 0 0.1978346 0.0748031 270 N 23 4 C1-1
+TOP 1 0.148622 0.0748031 270 N 2 18 C1-2
+#

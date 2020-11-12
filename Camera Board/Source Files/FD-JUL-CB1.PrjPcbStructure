@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Title.SchDoc
+Record=SheetSymbol|SourceDocument=Title.SchDoc|Designator=U_Camera|SchDesignator=U_Camera|FileName=Camera.SchDoc|SymbolType=Normal|RawFileName=Camera.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Title.SchDoc|Designator=U_Connector|SchDesignator=U_Connector|FileName=Connector.SchDoc|SymbolType=Normal|RawFileName=Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

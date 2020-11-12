@@ -1,0 +1,8 @@
+Line #,Fitted,Rev,Name,Description,Quantity,Designator,Manufacturer 1,Manufacturer Part Number 1
+
+"1","Fitted","C2","FD-JL-PCB-BB","PCB - Juliet - Battery Board","1","PCB1","",""
+"2","Fitted","","SMTSO-080-4ET","Surface Mount Nut","1","N1","PennEngineering","SMTSO-080-4ET"
+"3","Not Fitted","","RES 0 OHM JUMPER 1/8W 0805","0 Ohms Jumper 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)","0","R1","Vishay","CRCW08050000Z0EA"
+"4","Fitted","","0393-0-00-15-00-00-09-0*","Pin Receptacle Connector 0.065"" ~ 0.082"" (1.65mm ~ 2.08mm) No Tail Solder","1","P2","Mill-Max","0393-0-00-15-00-00-09-0*"
+"5","Fitted","","0871-0-57-20-82-14-11-0","Contact Spring Surface Mount","1","P3","Mill-Max","0871-0-57-20-82-14-110"
+"6","Fitted","","829-22-002-20-002101","2 Position Spring Piston Connector Through Hole, Right Angle","1","P1","Mill-Max","829-22-002-20-002101"

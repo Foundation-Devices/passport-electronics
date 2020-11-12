@@ -1,0 +1,99 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 -0.4 -0.31 270 N FID4 FID1X2R ;0=1,1=0.0630
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '0'
+PRP RoHS_Compliant ''
+TOP 0 -0.4 -0.31 270 N 0 3 FID4-0
+#
+# CMP 1
+CMP 0 0.4 -0.31 270 N FID3 FID1X2R ;0=1,1=0.0630
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '0'
+PRP RoHS_Compliant ''
+TOP 0 0.4 -0.31 270 N 0 2 FID3-0
+#
+# CMP 2
+CMP 1 -0.36 -0.08 0 N P2 0393-0-00-15-00-00-09-0* ;0=2,1=0.0000
+PRP Case/Package 'SMD/SMT'
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology ''
+PRP Pins ''
+PRP RoHS_Compliant ''
+PRP Terminal_and_Terminal_Block_Type 'PCB TERMINAL'
+PRP Terminal_Gender 'Female'
+TOP 0 -0.36 -0.08 0 N 1 2 P2-1
+#
+# CMP 3
+CMP 2 0.36 -0.08 0 N P3 0871-0-57-20-82-14-11-0 ;0=1,1=0.0000
+PRP Case/Package 'SMD/SMT'
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 0.36 -0.08 0 N 2 2 P3-1
+#
+# CMP 4
+CMP 5 -0.156 -0.094 270 N R1 RES_0_OHM_JUMPER_1/8W_0805 ;0=1,1=0.0571
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin,Lead'
+PRP Depth '1.25mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '125mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power ''
+PRP Power_Rating '125mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '0'
+PRP RoHS_Compliant ''
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+TOP 0 -0.156 -0.1235276 180 N 2 1 R1-1
+TOP 1 -0.156 -0.0644725 180 N 1 1 R1-2
+#
+# CMP 5
+CMP 4 0 0 0 N N1 SMTSO-080-4ET ;0=2,1=0.0000
+PRP Case/Package ''
+PRP ComponentLink1Description 'Website'
+PRP ComponentLink1URL 'https://catalog.pemnet.com/item/reelfast-micropem-surface-mount-nuts-standoffs/surface-mount-nuts-standoffs-br-type-smtso-unified/smtso-080-4et'
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 0 0 0 N 0 6 N1-1
+#

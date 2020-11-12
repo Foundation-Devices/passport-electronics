@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Users\16032\AppData\Local\TempReleases\Snapshot\2\Assembly Production\Assembly\Pick Place\FD-JL-PCB-CB_C1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/11/20
+Time:       13:22
+Revision:   Not in VersionControl
+Variant:    Production
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"FID2","FID1X2R","BottomLayer","FID1X2R","204.724","181.102","90","Fiducial - Round 1x2mm"
+"FID1","FID1X2R","TopLayer","FID1X2R","-204.724","181.102","90","Fiducial - Round 1x2mm"
+"X1","DSC6001HE2A-024.0000","BottomLayer","MCHP_-_VFLGA-1612-4_L","-177.165","78.740","270","XO (Standard) CMOS Oscillator 1.8V ~ 3.3V Enable/Disable 4-SMD, No Lead"
+"U1","OVM7690-RYAA","BottomLayer","OMNI_-_CCBGA-CG-20","0.000","0.000","90","SENSOR CAMERA CMOS 20CAMERACUBE"
+"R5","RES 0 OHM JUMPER 1/16W 0402","BottomLayer","RESC0402(1005)_L","-114.173","19.685","90","0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)"
+"R2","RES 4.7K 1/16W 1% 0402","BottomLayer","RESC0402(1005)_L","-181.102","-114.173","180","4.7 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
+"R1","RES 4.7K 1/16W 1% 0402","BottomLayer","RESC0402(1005)_L","-181.102","-82.677","180","4.7 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
+"P1","LSS-110-02-L-DV-A-K","TopLayer","SMTC_-_LSS-110-02-L-DV-A_V","0.000","-23.300","360","20 Position Connector Self Mating, Non-Gendered Surface Mount Gold"
+"L2","BLM18PG221SH1D","BottomLayer","FBC0603(1608)90_L","181.102","-66.929","270","FERRITE BEAD 220 OHM 0603 1LN"
+"L1","BLM18PG221SH1D","BottomLayer","FBC0603(1608)90_L","31.496","145.669","180","FERRITE BEAD 220 OHM 0603 1LN"
+"C9","CAP CER 0.1uF 16V 10% X7R 0402","BottomLayer","CAPC0402(1005)55_L","-177.165","125.984","360","0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C8","CAP CER 0.1uF 16V 10% X7R 0402","BottomLayer","CAPC0402(1005)55_L","82.677","82.677","360","0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C7","CAP CER 0.1uF 16V 10% X7R 0402","BottomLayer","CAPC0402(1005)55_L","94.488","35.433","90","0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C6","CAP CER 4.7uF 16V 10% X5R 0603","BottomLayer","CAPC0603(1608)90_L","125.000","150.000","270","4.7µF ±10% 16V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C5","CAP CER 4.7uF 16V 10% X5R 0603","BottomLayer","CAPC0603(1608)90_L","133.858","-66.929","270","4.7µF ±10% 16V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C4","CAP CER 0.1uF 16V 10% X7R 0402","BottomLayer","CAPC0402(1005)55_L","94.488","-35.433","270","0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C3","CAP CER 0.1uF 16V 10% X7R 0402","BottomLayer","CAPC0402(1005)55_L","-72.835","86.614","180","0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C2","CAP CER 4.7uF 16V 10% X5R 0603","BottomLayer","CAPC0603(1608)90_L","-82.677","141.732","180","4.7µF ±10% 16V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C1","CAP CER 4.7uF 16V 10% X5R 0603","BottomLayer","CAPC0603(1608)90_L","173.228","74.803","180","4.7µF ±10% 16V Ceramic Capacitor X5R 0603 (1608 Metric)"

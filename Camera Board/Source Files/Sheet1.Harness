@@ -1,0 +1,3 @@
+DCMI=D[7..0],{Output:DCMI_Output},{Input:DCMI_Input}
+DCMI_Input=SDA,SCL,PWDN,XVCLK
+DCMI_Output=HREF,VSYNC,PCLK

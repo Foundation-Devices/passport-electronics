@@ -1,0 +1,34 @@
+C  Project Name : 
+C  Board Name : 
+C  Date : 11/10/2020
+C  Time : 4:45:31 PM
+C  
+C  --------------- Layer Stackup --------------------
+C  
+C  Top Layer
+C  Bottom Layer
+C  
+C  --------------------------------------------------
+C  
+P  JOB
+P  UNITS CUST
+P  TITLE ProC072.tmp
+P  NUM 1.0
+P  REV A
+P  VER IPC-D-356A
+P  IMAGE PRIMARY
+317                 N1    -1    D1000UA00X 000000Y 000000X0000          S0
+317                 P1    -H2   D0600UA00X-000500Y-002603X0000          S0
+317                 P1    -H1   D0600UA00X 000500Y-002603X0000          S0
+327                 FID4  -0         UA01X-004000Y-003100X0394          S0
+327                 FID3  -0         UA01X 004000Y-003100X0394          S0
+327                 FID1  -0         UA02X-004000Y-003100X0394          S0
+327                 FID2  -0         UA02X 004000Y-003100X0394          S0
+317PEG              P1    -2    D0320PA00X-000500Y-001123X0000          S0
+317PEG              P2    -1    D1516PA00X-003600Y-000800X0000          S0
+327PEG              R1    -2         PA01X-001560Y-000645X0394          S0
+317SPRING           P1    -1    D0320PA00X 000500Y-001123X0000          S0
+327SPRING           P3    -1         UA01X 003600Y-000800X1968          S0
+327SPRING           R1    -1         PA01X-001560Y-001235X0394          S0
+379PEG SPRING
+999

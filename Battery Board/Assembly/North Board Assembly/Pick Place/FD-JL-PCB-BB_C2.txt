@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\16032\AppData\Local\TempReleases\Snapshot\1\Assembly North Board\Assembly\Pick Place\FD-JL-PCB-BB_C2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/11/20
+Time:       16:45
+Revision:   Not in VersionControl
+Variant:    North Board
+Units used: mil
+
+Designator Comment                      Layer       Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                                 
+FID4       FID1X2R                      TopLayer    FID1X2R                          -400.000      -310.000      90       "Fiducial - Round 1x2mm"                                                    
+FID3       FID1X2R                      TopLayer    FID1X2R                          400.000       -310.000      90       "Fiducial - Round 1x2mm"                                                    
+FID2       FID1X2R                      BottomLayer FID1X2R                          400.000       -310.000      90       "Fiducial - Round 1x2mm"                                                    
+FID1       FID1X2R                      BottomLayer FID1X2R                          -400.000      -310.000      90       "Fiducial - Round 1x2mm"                                                    
+P2         0393-0-00-15-00-00-09-0*     TopLayer    MIMX_-_0393                      -360.000      -80.000       0        "Pin Receptacle Connector 0.065" ~ 0.082" (1.65mm ~ 2.08mm) No Tail Solder" 
+P3         0871-0-57-20-82-14-11-0      TopLayer    MIMX_-_0871-0-15-20-82-14-11-0_V 360.000       -80.000       0        "Contact Spring Surface Mount"                                              
+R1         "RES 0 OHM JUMPER 1/8W 0805" TopLayer    RESC0805(2012)_L                 -156.000      -94.000       90       "0 Ohms Jumper 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)"               
+N1         SMTSO-080-4ET                TopLayer    PNENG_-_SMTSO-080-4ET            0.000         0.000         0        "Surface Mount Nut"                                                         

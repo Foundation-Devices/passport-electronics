@@ -1,0 +1,23 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: passport-electronics
+Upstream-Contact: Foundation Devices <hello@foundationdevices.com>
+Source: https://foundationdevices.com/passport-electronics
+
+Files: *
+Copyright: 2020 Foundation Devices, Inc. <hello@foundationdevices.com>
+License: CERN-OHL-S-2.0
+
+You may redistribute and modify this source and make products using it
+under the terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+
+Source location: foundationdevices.com/passport-electronics
+
+As per CERN-OHL-S v2 section 4, should You produce hardware based on this
+source, You must where practicable and applicable maintain the Source Location
+visible (1) on the packaging of the hardware, (2) on the circuit board(s) via
+silkscreen or copper, (3) in any documentation, and (4) on other products you
+make using this source.

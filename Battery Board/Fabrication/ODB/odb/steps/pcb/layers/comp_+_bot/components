@@ -1,0 +1,41 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 0.4 -0.31 270 N FID2 FID1X2R ;0=1,1=0.0630
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '0'
+PRP RoHS_Compliant ''
+TOP 0 0.4 -0.31 270 N 0 1 FID2-0
+#
+# CMP 1
+CMP 0 -0.4 -0.31 270 N FID1 FID1X2R ;0=1,1=0.0630
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins '0'
+PRP RoHS_Compliant ''
+TOP 0 -0.4 -0.31 270 N 0 0 FID1-0
+#
+# CMP 2
+CMP 3 0 -0.3373228 0 N P1 829-22-002-20-002101 ;0=2,1=0.0000
+PRP Case/Package 'SIP'
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 0.05 -0.1123228 180 N 2 3 P1-1
+TOP 1 -0.05 -0.1123228 0 N 1 3 P1-2
+TOP 2 0.05 -0.2603228 180 N 0 5 P1-H1
+TOP 3 -0.05 -0.2603228 0 N 0 4 P1-H2
+#
