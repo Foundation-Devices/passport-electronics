@@ -37,6 +37,12 @@ If you are interested in using KiCAD, you may try this Altium to KiCAD converter
 ### Documenting Changes
 This repository includes a CHANGES.txt file. We will document all design changes in this file. If you submit a pull request that makes changes to the circuit designs, please update CHANGES.txt with a brief description of your changes.
 
+## Open Source Components
+Passport's Main Board incorporates an open-source schematic from the [Betrusted project](https://github.com/betrusted-io/betrusted-hardware-xt). Specifically, we implemented Betrusted's [Avalance Noise Source](https://betrusted.io/avalanche-noise) design into Passport to serve as a true random number generator that does not rely on black-box silicon. Thank you to the Betrusted team for open sourcing their excellent work.
+
+## Security Vulnerability Disclosure
+Please report suspected security vulnerabilities in private to security@foundationdevices.com. Please do NOT create publicly viewable issues for suspected security vulnerabilities.
+
 ## Licensing
 This project, and every file included in this repository, is licensed under CERN-OHL-S v2 – a viral, copyleft, open source license. CERN-OHL-S v2 is similar in goals to GPLv3, but is specifically designed for hardware projects.
 
