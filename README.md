@@ -1,6 +1,6 @@
 # Passport Electronics
 
-This repository contains the circuit designs for Passport, an open source Bitcoin hardware wallet made by Foundation Devices. While the circuit designs are complete, Foundation Devices is still in the prototyping stage and will likely make changes prior to production.
+This repository contains the production circuit designs for Passport, an open source Bitcoin hardware wallet made by Foundation Devices.
 
 <img width="1165" alt="main board block diagram" src="https://user-images.githubusercontent.com/14018740/98994794-5fa6eb80-24fe-11eb-8832-4fdf604ca25d.png">
 

@@ -1,0 +1,33 @@
+THICKNESS=0
+USER_PARAMS=
+
+TOOLS {
+    NUM=1
+    TYPE=VIA
+    MIN_TOL=0
+    MAX_TOL=0
+    BIT=
+    FINISH_SIZE=7.874
+    DRILL_SIZE=7.874
+}
+
+TOOLS {
+    NUM=2
+    TYPE=VIA
+    MIN_TOL=0
+    MAX_TOL=0
+    BIT=
+    FINISH_SIZE=9.8425
+    DRILL_SIZE=9.8425
+}
+
+TOOLS {
+    NUM=3
+    TYPE=VIA
+    MIN_TOL=0
+    MAX_TOL=0
+    BIT=
+    FINISH_SIZE=9.8819
+    DRILL_SIZE=9.8819
+}
+

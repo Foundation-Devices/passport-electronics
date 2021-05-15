@@ -7,4 +7,30 @@ When adding information, please provide a brief entry with a date and the nature
 
 CHANGES:
 
-November 12, 2020: Design files added to repository.
+REV C1: 11/09/2020
+ - Initial Release
+
+REV C2: 11/22/2020
+ - Changed R25, R27, to 10kOhms: LED Brightness
+ - Installed R55 and R56 with 10kOhms
+ - Changed R61 to 220k: ALS Sensitivity
+ - Changed R32 to 215k: 2.8V Supply
+ - Net name change: CDONE --> BUF1_OE_b, CRESET --> BUF2_OE_b
+
+REV C3: 12/04/2020
+ - Added 2.5V VREF for ADC: U20
+ - Removed 32kHz tuning fork
+
+REV D1: 12/18/2020
+ - Added +2V8 LDO for camera
+ - Added C54: feedback capacitor
+
+REV D2: 2/15/2021
+ - Changed R25 from 10k to 14.3k: Blue LED brigntness
+ - Updated P1 PN to specify T&R
+
+REV E1: 4/27/2021
+ - Updated Keypad Footprints
+ - Changed R25 from 14.3k to 22k: Blue LED brightness
+ - Changed R33 from 20k to 22k: BOM consolidation
+ - DNI: U3, C2, C38, R5, R23

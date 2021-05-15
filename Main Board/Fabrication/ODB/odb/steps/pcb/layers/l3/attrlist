@@ -12,5 +12,6 @@
 .out_comp = 0.000000
 .et_adjacency = 20.000000
 .layer_dielectric = 0.0051
-.copper_weight = 0.97730496
+.copper_weight = 1
+.comment = CF-004
 
